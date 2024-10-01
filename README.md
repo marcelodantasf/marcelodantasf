@@ -1,4 +1,9 @@
-## Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=marcelodantasf&show_icons=true&theme=apprentice" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodantasf&size_weight=0.5&count_weight=0.5&layout=compact&theme=apprentice&hide=html,vim%20script" />
+</a>
 
 <!--
 **marcelodantasf/marcelodantasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
